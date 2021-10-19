@@ -6,7 +6,7 @@
 
 :root {
   --white: #fff;
-  --gray-100: #e1e1e6; 
+  --gray-100: #e1e1e6;
   --gray-300: #a8a8b3;
   --gray-700: #29292e;
   --gray-850: #1f2729;
@@ -17,7 +17,7 @@
 }
 
 html {
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 @media (max-width: 1080px) {
@@ -38,8 +38,12 @@ body {
 }
 
 body {
-  input, textarea, select, button, a {
-    font: 400 1rem "Roboto", sans-serif;
+  input,
+  textarea,
+  select,
+  button,
+  a {
+    font: 400 1rem 'Roboto', sans-serif;
   }
 }
 

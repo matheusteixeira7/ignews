@@ -3,7 +3,7 @@ const products = () => {
     <div>
       <h1>products</h1>
     </div>
-  );
-};
+  )
+}
 
-export default products;
+export default products

@@ -1,7 +1,7 @@
-import React from 'react';
+import React from 'react'
 
-import { SignInButton } from '../SignInButton';
-import styles from './styles.module.scss';
+import { SignInButton } from '../SignInButton'
+import styles from './styles.module.scss'
 
 export const Header = () => {
   return (
@@ -18,5 +18,5 @@ export const Header = () => {
         <SignInButton />
       </div>
     </header>
-  );
-};
+  )
+}
